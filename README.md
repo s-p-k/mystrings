@@ -1,0 +1,2 @@
+# mystrings
+bootdev exercise
